@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-pvp-bot",
+  "version": "1.0.0",
+  "description": "Custom Pokemon PvP bot on Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "mongoose": "^6.0.12",
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
